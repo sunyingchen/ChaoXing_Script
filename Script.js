@@ -560,7 +560,7 @@ function get_right_answer(){
 //上传答案
 function upload_answer(q,a){
 
-	var url="https://www.lllxy.site/cxtk/uploadsubject.ashx?question="+q+"&answer="+a;
+	var url=【上传题库API】;
 
     var finalurl=encodeURI(url);
     

@@ -8,5 +8,7 @@ Mcirosoft Store传送门：
 
 
 脚本中题库api已经去除，如果需要，请联系开发者
+
 Email：lixinyangemil@outlook.com
+
 QQ:837685961

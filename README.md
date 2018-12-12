@@ -32,5 +32,3 @@ Email：lixinyangemil@outlook.com
 QQ: 837685961
 
 此脚本仅供个人学习使用
-
-lxy是syc爸爸

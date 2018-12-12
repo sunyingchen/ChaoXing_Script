@@ -25,7 +25,8 @@ Mcirosoft Store传送门：
 
 ### 脚本中上传题库api已经去除（获取答案api可用），如果需要上传题库api，请联系开发者
 
->Email：lixinyangemil@outlook.com
->QQ: 837685961
+Email：lixinyangemil@outlook.com
+
+QQ: 837685961
 
 此脚本仅供个人学习使用
